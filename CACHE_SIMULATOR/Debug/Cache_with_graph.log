@@ -1,0 +1,218 @@
+﻿  Cache.c
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(24,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(53,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(59,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(39,1): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(47,1): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(149,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(168,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Cache.c(179,19): warning C4018: '<': signed/unsigned mismatch
+  Main.c
+  pbPlots.c
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(127,45): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(128,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(151,70): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(152,34): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(381,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(382,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(383,81): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(384,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(385,68): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(386,39): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(550,92): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(551,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(574,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(575,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(576,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(577,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(589,92): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(590,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1107,80): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1108,38): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1117,78): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1118,32): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1135,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1136,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1147,80): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1148,38): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1273,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1274,26): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1284,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1285,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1384,20): warning C4101: 'height': unreferenced local variable
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1384,13): warning C4101: 'width': unreferenced local variable
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1516,46): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1517,17): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1523,46): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1524,17): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1547,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1548,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1554,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1555,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1578,92): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1579,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1608,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1609,20): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1610,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1611,20): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1612,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1613,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1614,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1615,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1633,92): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1634,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1738,57): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1739,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1742,60): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(1743,36): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2401,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2402,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2431,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2432,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2455,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2456,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2479,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2480,22): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2494,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2495,22): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2597,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2598,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2689,56): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2690,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2928,72): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2929,43): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2940,71): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2941,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2942,69): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2943,40): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2973,75): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2974,46): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2985,73): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(2986,44): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3002,71): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3003,42): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3045,75): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3046,46): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3405,45): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3406,16): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3556,49): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3557,20): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3595,39): warning C4244: '=': conversion from 'double' to 'wchar_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3776,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3777,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3800,48): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3801,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3824,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3825,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3847,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3848,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3858,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3859,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3869,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3870,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3919,62): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3920,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3962,63): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3963,34): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3989,60): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(3990,29): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4016,80): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4017,34): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4199,51): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4200,22): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4269,56): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4270,27): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4301,56): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4302,27): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4340,45): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4341,16): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4368,55): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4369,26): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4461,46): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4462,20): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4476,53): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4477,22): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4478,52): warning C4244: '=': conversion from 'double' to 'wchar_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4479,52): warning C4244: '=': conversion from 'double' to 'wchar_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4480,52): warning C4244: '=': conversion from 'double' to 'wchar_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4481,52): warning C4244: '=': conversion from 'double' to 'wchar_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4525,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4526,19): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4580,70): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4581,39): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4598,61): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4599,30): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4721,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4722,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4747,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4748,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4792,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4793,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4828,66): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4829,20): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4831,50): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4832,19): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4841,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4842,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4895,48): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4896,19): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4993,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(4994,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5038,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5039,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5080,64): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5081,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5100,64): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5101,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5132,81): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5133,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5153,81): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5154,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5185,62): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5186,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5205,62): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5206,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5260,69): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5261,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5314,71): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5315,21): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5438,52): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5439,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5514,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5515,23): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5555,54): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5556,25): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5565,58): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5566,29): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5585,58): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5586,29): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5614,58): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5615,29): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5672,56): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5673,27): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5756,60): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5757,31): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5771,66): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5772,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5791,66): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(5792,35): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6442,18): warning C4101: 'i': unreferenced local variable
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6523,73): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6524,44): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6624,60): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6625,31): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6660,80): warning C4244: 'function': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6661,51): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\pbPlots.c(6868,16): warning C4013: 'WriteToFile' undefined; assuming extern returning int
+  supportLib.c
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\supportLib.c(10,19): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\supportLib.c(21,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Trace.c
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(11,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(27,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(31,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(34,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(37,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Trace.c(145,26): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Cache_with_graph.vcxproj -> C:\Users\HP\Downloads\Cachesimulator\CACHE_SIMULATOR\Debug\Cache_with_graph.exe
